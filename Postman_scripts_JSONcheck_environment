@@ -1,0 +1,37 @@
+{
+	"id": "250618b5-1625-4758-ad4f-b556ff82623a",
+	"name": "Tokenenv",
+	"values": [
+		{
+			"key": "token",
+			"value": "/s34lfgbj/None/jjd909/21916kjkWpqc4388None361254evny",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "http://162.55.220.72:5005/",
+			"enabled": true
+		},
+		{
+			"key": "salary",
+			"value": "1600",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "age",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "ID",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+}
